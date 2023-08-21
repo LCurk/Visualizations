@@ -5,7 +5,7 @@ No need to highlight:
 - Title:
 	- no reason to be too large (text size: 18)
 - Slicer:
-	- [[Slicer Year]], [[Slicer Month]], [[Slicer Day]] without titles
+	- [[Slicer Year]], [[Slicer Month]], [[Slicer Week]] without titles
 
 Distribute elements by their importance:
 - Left to right

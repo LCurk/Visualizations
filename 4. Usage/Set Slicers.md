@@ -4,7 +4,7 @@ Add slicers to the first page at the top:
 	- [[Slicer Month]]
 	- [[Slicer Year]]
 - Optional
-	- [[Slicer Day]]
+	- [[Slicer Week]]
 	- Slicer Company
 	- Slicer Market
 
