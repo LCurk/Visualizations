@@ -1,0 +1,5 @@
+...
+
+---
+
+**Better alternative: [[Bar chart]]**

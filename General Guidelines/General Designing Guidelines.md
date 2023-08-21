@@ -21,7 +21,7 @@ Rule 13: Show variations
 Rule 14: [[Leave the noise off]]
 
 Source:
-- SqlBI Course ([[Smart BI/Standard Visualizations/Dashboard Design Course]])
+- SqlBI Course ([[Dashboard Design Course]])
 
 
 
