@@ -3,6 +3,7 @@ Modeling -> New table
 Dates = CALENDARAUTO
 ```
 
+#todo/laura dodaj formulo
 
 
 3. New table > CALLENDARAUTO > Adding columns (date hierarchy created) (pocasno)

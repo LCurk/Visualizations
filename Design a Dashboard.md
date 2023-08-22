@@ -1,15 +1,15 @@
-# Prepare a Model
+## Prepare a Model
 1. [[Create Calendar Dimension]]
 2. [[Format Measures]]
 
-# Power BI Service Configuration
+### Power BI Service Configuration
 1. [[Organize Source Date]]
 
-# Power BI Desktop Configuration
-1. [[General Settings in Power BI Desktop]]
+#### Power BI Desktop Configuration
+1. [[General Settings in PBI Desktop]]
 2. [[General Designing Guidelines]]
 
-# Additional
+# Usage
 1. [[Use of Colors]]
 2. [[Set Slicers]]
 3. [[Use Abbreviations]]
