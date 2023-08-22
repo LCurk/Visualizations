@@ -1,0 +1,2 @@
+organizacija vsebine (1 file in not 200 zavihkov - če nemoreš met model kot dataset - al obratno) - dodaj primer kk ta dataset nardit
+- ko maš PBI model, ga publishaš in ko delaš voz, se povežeš na dataset in iz tam delaš viz (desktop)

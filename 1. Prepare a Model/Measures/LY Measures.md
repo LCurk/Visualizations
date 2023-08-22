@@ -1,0 +1,1 @@
+Primer uporabe: stanje ___ (npr. zalog)

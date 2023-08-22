@@ -13,3 +13,7 @@ ARPU = Average Revenue per User
 
 Slo: DD-MM-YYYY
 Eng: YYYY-MM-DD
+
+LY = Last year
+LM = Last month
+LD = Last day

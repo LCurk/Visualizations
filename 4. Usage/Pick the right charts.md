@@ -41,6 +41,6 @@ visualization: ChicletSlicer by OKViz
 
 
 
-
+Zebra BI Visualizations can be used for bigger customers (NELT, etc.). For the smaller ones is too expensive.
 
 

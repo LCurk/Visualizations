@@ -10,3 +10,6 @@ Power BI Desktop -> Measure tools
 
 
 procent če maš že v tabeli je manj kul
+
+
+[[Bulk Measures]]
