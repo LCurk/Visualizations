@@ -1,6 +1,19 @@
-[[Visualizations you shouldn't use]] (with a few exceptions)
+Visualizations you shouldn't use (with a few exceptions):
+- [[Pie chart]]
+- [[Donut chart]]
+- [[Gauge]]
+- [[Sankey]]
+- [[Radar chart]]
+- [[Treemap]]
+- [[Bubble chart]]
+- [[Clustured Column chart]]
+
+http://www.perceptualedge.com/example17.php
+
 
 ---
+
+Visualizations you should use:
 
 KPIs:
 - [[Card with States]]
