@@ -36,7 +36,15 @@ PAGE_GRAPH = "y"
 # (Optional, default false) Whether sidebar sections should be collapsed by default.
 SIDEBAR_COLLAPSED = ""
 # (Optional, default blank) Additional footer content.
-FOOTER = ""
+FOOTER = """
+<script src="https://utteranc.es/client.js"
+        repo="LCurk/Visualizations"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
+"""
 # (Optional, default main) Root section name.
 ROOT_SECTION_NAME = "main"
 # (Optional) visjs graph options. Can remove if desired.
