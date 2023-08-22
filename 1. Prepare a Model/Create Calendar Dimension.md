@@ -6,5 +6,4 @@ There are two options to get a calendar dimension into a Power BI model:
 #todo govori z Anžetom, kaj je naš vir za to
 
 
-
 vzemi iz cinkarne, kaj vse majo oni (oni majo iz DWHja)
