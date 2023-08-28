@@ -1,0 +1,1 @@
+Join waitlist: https://www.daxoptimizer.com/

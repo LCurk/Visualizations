@@ -1,3 +1,5 @@
+After creating a measure, format it.
+
 Power BI Desktop -> Measure tools
 - Number
 	- Format: Decimal number

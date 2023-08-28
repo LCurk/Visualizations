@@ -1,0 +1,15 @@
+Structure of 5 PBI files:
+- **Summary**
+	- <span style="color:#5E8BBA">Overview</span>
+- **Dimension1**
+	- <span style="color:#5E8BBA">Overview</span>
+	- Detail
+- **Dimension2**
+	- <span style="color:#5E8BBA">Overview</span>
+	- Detail
+- **Dimension3**
+	- <span style="color:#5E8BBA">Overview</span>
+	- Detail
+- **Special**
+	- <span style="color:#5E8BBA">Overview</span>
+	- Detail
