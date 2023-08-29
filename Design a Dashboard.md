@@ -4,7 +4,7 @@
 [[C Create Testing Dimensions]]
 
 #### 2. Source Data
-[[A Organize Source Data]]
+[[1 Organize Source Data]]
 
 #### 3. Power BI Desktop Configuration
 [[A General Settings in PBI Desktop]]
