@@ -3,13 +3,17 @@ Structure of 5 PBI files:
 	- <span style="color:#5E8BBA">Overview</span>
 - **Dimension1**
 	- <span style="color:#5E8BBA">Overview</span>
-	- Detail
+	- Analysis
 - **Dimension2**
 	- <span style="color:#5E8BBA">Overview</span>
-	- Detail
+	- Analysis
 - **Dimension3**
 	- <span style="color:#5E8BBA">Overview</span>
-	- Detail
+	- Analysis
 - **Special**
 	- <span style="color:#5E8BBA">Overview</span>
-	- Detail
+	- Analysis
+
+Legend:
+- Overview: dashboard
+- Analysis: tables

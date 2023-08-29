@@ -17,3 +17,4 @@ Visualizations
 - Use the same readable font across all
 - Less free space on visuals
 - Don't use data labels if not necessary
+- Remove to improve: [Example](https://speakerdeck.com/player/87bb9f00ec1e01308020727faa1f9e72)

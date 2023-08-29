@@ -14,7 +14,7 @@ Metrics
 - Act, Py and Growth (%)
 	- Growth (%) < 0 => color "Growth (%) number" in red
 - Act, Py and Growth
-	- Growth < 0 => color "Growth number" in red
+	- Diff < 0 => color "Growth number" in red
 
 Bar chart / Column chart
 - bars/columns in main color (include green and red for extremes)

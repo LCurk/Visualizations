@@ -9,3 +9,7 @@ Structure of 1 PBI file "Area":
 	- Dimension3 Analysis
 	- <span style="color:#5E8BBA">Special Overview</span>
 	- Special Analysis
+
+Legend:
+- Overview: dashboard
+- Analysis: tables

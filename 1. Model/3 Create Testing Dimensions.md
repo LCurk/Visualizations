@@ -11,9 +11,9 @@ Testing dimensions that should be created:
 		- [[Price Zero Dimension]]
 		- [[Quantity Zero Dimension]]
 - Area: [[Finance]]
-	- d
+	- ...
 - Area: [[Sales]]
-	- f
+	- ...
 
 After creating dimensions, you should add a custom column to the dimension to implement condition written in a testing table.
 - Usually used formulas: IF, OR, AND, etc.

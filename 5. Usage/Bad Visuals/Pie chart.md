@@ -1,4 +1,6 @@
-If comparing 2 values/categories
+Display parts of a whole.
+
+If comparing 2 values/variables/categories
 - E.g.: female/male, yes/no, etc.
 	![[Pasted image 20230728091958.png]]
 

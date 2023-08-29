@@ -4,4 +4,10 @@ Y-axis:
 
 (yearly by months)
 
-It is for more advanced users.
+---
+
+**Change or trend over time.**
+
+---
+
+It is for more advanced users on a customer side.

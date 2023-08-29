@@ -1,1 +1,2 @@
-X-axis: time (granularity: day, week, month, etc.)
+X-axis:
+- time (granularity: day, week, month, etc.)
