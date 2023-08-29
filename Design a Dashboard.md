@@ -1,5 +1,5 @@
 #### 1. Prepare a Model
-	[[1 Create Calendar Dimension]]
+	[[1st Create Calendar Dimension]]
 	[[2. Format Measures]]
 	[[3. Create Testing Dimensions]]
 
