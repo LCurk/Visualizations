@@ -17,7 +17,7 @@
 [[B Set Slicers]]
 [[C Use Abbreviations]]
 [[D Pick the right charts]]
-add
+...
 [[F Allign elements]]
 
 #### 6. Power BI Service Configuration
