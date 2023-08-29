@@ -1,13 +1,13 @@
 #### 1. Prepare a Model
-	[[1st Create Calendar Dimension]]
-	[[2. Format Measures]]
-	[[3. Create Testing Dimensions]]
+	[[A Create Calendar Dimension]]
+	[[B Format Measures]]
+	[[C Create Testing Dimensions]]
 
 #### 2. Source Data
-	[[1. Organize Source Data]]
+	[[1st Organize Source Data]]
 
 #### 3. Power BI Desktop Configuration
-	[[1. General Settings in PBI Desktop]]
+[[A General Settings in PBI Desktop]]
 
 #### 4. Guidelines
 	[[1. General Designing Guidelines]]
