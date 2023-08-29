@@ -1,0 +1,1 @@
+OneLake data hub -> three dots by your dataset -> Share -> enter email address -> check “modify, share, build, email” -> Grant access

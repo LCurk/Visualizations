@@ -3,7 +3,7 @@ It checks if different quantities are equal to zero or not.
 #### Dimenzija
 
 | **ReceiptOrIssueID** | **ReceiptOrIssue** |
-|:---|:----:|
+|:---|:---|
 | 1 | Receipt |
 | 2 | Issue |
 

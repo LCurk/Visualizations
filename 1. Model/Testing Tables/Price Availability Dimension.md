@@ -3,7 +3,7 @@ It checks if the ...
 #### Dimenzija
 
 | **PriceAvailabilityID** | **PriceAvailability** |
-|:---|:----:|
+|:---|:---|
 | 1 | Only Invoice |
 | 2 | Only Plan |
 | 3 | Both |

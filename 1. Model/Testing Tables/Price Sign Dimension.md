@@ -3,7 +3,7 @@ It checks if the price is positive or negative.
 #### Dimension
 
 | **PriceSignID** | **PriceSign** |
-|:---|:----:|
+|:---|:---|
 | 1 | Positive |
 | 2 | Negative |
 
