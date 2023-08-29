@@ -3,16 +3,18 @@
 [[2 Format Measures]]
 [[3 Create Testing Dimensions]]
 
-#### 2. Source Data
-[[1 Organize Source Data]]
+#### 2. Organize Data
+[[1 Create Power BI Dataset]]
+[[2 Create Power BI Dataflow]]
+[[3 Organize Output Data]]
 
 #### 3. Power BI Desktop Configuration
 [[1 General Settings in PBI Desktop]]
 
-#### 4. Guidelines
+#### 4. Designing Guidelines
 [[1 General Designing Guidelines]]
 
-#### 5. Usage
+#### 5. Usage on Visualizations
 [[1 Use of Colors]]
 [[2 Set Slicers]]
 [[3 Use Abbreviations]]
@@ -25,6 +27,7 @@
 [[2 Publish PBI Report in PBI App]]
 [[3 Publish PBI Report to Web]]
 [[4 Create Dashboard from PBI Report]]
+[[2 Create Power BI Dataflow]]
 
 #### 7. Sharing
 [[1 Share PBI Workspace]]
