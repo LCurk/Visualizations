@@ -4,30 +4,30 @@
 	[[C Create Testing Dimensions]]
 
 #### 2. Source Data
-	[[1st Organize Source Data]]
+	[[A Organize Source Data]]
 
 #### 3. Power BI Desktop Configuration
 [[A General Settings in PBI Desktop]]
 
 #### 4. Guidelines
-	[[1. General Designing Guidelines]]
+	[[A General Designing Guidelines]]
 
 #### 5. Usage
-	[[1. Use of Colors]]
-	[[2. Set Slicers]]
-	[[3. Use Abbreviations]]
-	[[4. Pick the right charts]]
+	[[A Use of Colors]]
+	[[B Set Slicers]]
+	[[C Use Abbreviations]]
+	[[D Pick the right charts]]
 	...
-	[[5. Allign elements]]
+	[[F Allign elements]]
 
 #### 6. Power BI Service Configuration
-	[[1. Open Workspace in PBI]]
-	[[2. Publish PBI Report in PBI App]]
-	[[3. Publish PBI Report to Web]]
-	[[4. Create Dashboard from PBI Report]]
+	[[A Open Workspace in PBI]]
+	[[B Publish PBI Report in PBI App]]
+	[[C Publish PBI Report to Web]]
+	[[D Create Dashboard from PBI Report]]
 
 #### 7. Sharing
-	[[1. Share PBI Workspace]]
-	[[2. Settings in PBI App]] todo
-	[[3. Gateway Connection]] todo
-	[[4. Schedule Refresh]]
+	[[A Share PBI Workspace]]
+	[[B Settings in PBI App]] todo
+	[[C Gateway Connection]] todo
+	[[D Schedule Refresh]]
