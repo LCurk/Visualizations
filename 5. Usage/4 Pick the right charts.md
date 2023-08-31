@@ -63,6 +63,9 @@ Compare categories of stores (superscript):
 Compare stores that are in categories (subscript):
 - [[Clustured Bar chart]] / [[Clustured Column chart]]
 
+Comparison, relationship and trends of variables on vastly different scales:
+- [[Line and Clustured Column chart]]
+
 
 **COMPOSITION**
 
@@ -77,13 +80,10 @@ Composition of items:
 Composition of variables:
 - 2 - 3 variables: [[Stacked Bar chart]]
 
-**...**
+
 
 Cumulative (Sales cost + Gross cost):
 - [[Line chart]]
-
-Before & After
-- [[Sparkline]]
 
 
 **DISTRIBUTION**
@@ -137,3 +137,7 @@ Correlation, distribution and clustering between two numeric variables:
 Zebra BI Visualizations can be used for bigger customers. It is too expensive for the smaller ones.
 
 
+What factors determines one implicit measure?
+-  [[Key influencers]]
+
+https://synoptic.design/

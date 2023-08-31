@@ -9,4 +9,5 @@ No need to highlight:
 
 Distribute elements by their importance:
 - Left to right
+	- E.g.: time (should be always on the horizontal axis)
 - Top to down

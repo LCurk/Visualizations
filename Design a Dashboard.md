@@ -4,9 +4,10 @@
 [[3 Create Testing Dimensions]]
 
 #### 2. Organize Data
-[[1 Create Power BI Dataset]]
-[[2 Create Power BI Dataflow]]
-[[3 Organize Output Data]]
+[[1 Create Power BI Dataflow]]
+[[2 Create Power BI Dataset]]
+[[3 Organize Source Data]]
+[[4 Organize Output Data]]
 
 #### 3. Power BI Desktop Configuration
 [[1 General Settings in PBI Desktop]]
@@ -27,7 +28,7 @@
 [[2 Publish PBI Report in PBI App]]
 [[3 Publish PBI Report to Web]]
 [[4 Create Dashboard from PBI Report]]
-[[2 Create Power BI Dataflow]]
+[[1 Create Power BI Dataflow]]
 
 #### 7. Sharing
 [[1 Share PBI Workspace]]
