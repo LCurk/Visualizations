@@ -1,8 +1,34 @@
 You create additional measures beside the general measures when developing analytics model in Power BI.
 
-Import more measures at once in PBI:
-- https://www.youtube.com/watch?v=3TdSp-lCGNk
-- https://www.managility.co/bulk-measure-operations-in-power-bi/
+All measures should have the same granularity (isto stopnjo podrobnosti).
+
+Calculation Items Formulas: https://learn.microsoft.com/en-us/analysis-services/tabular-models/calculation-groups?view=asallproducts-allversions
+- Time Intelligence
+- Averages
+
+**Instructions: https://www.youtube.com/watch?v=vlnx7QUVYME**
+
+Order calculation items: https://learn.microsoft.com/en-us/analysis-services/tabular-models/calculation-groups?view=asallproducts-allversions#ordering
+
+?? https://dash-intel.com/powerbi/time_intelligence_functions_closingbalance.php
+
+
+Alternative (**bad**) are Time Intelligence functions in DAX (separate for every measure): https://www.sqlbi.com/articles/time-intelligence-in-power-bi-desktop/
+
+
+---
+
+Slicer to filter all measures on page in PBI Desktop for last 24 hours, 2 years, etc.
+1. Create Calculation Items
+2. [[Testing Table]] to insert into slicer
+
+---
+
+One click import calculation groups with [[Tabular Editor 2]] and [[Tabular Editor 3]]:
+- https://www.youtube.com/watch?v=5i5hUU3IhJc&ab_channel=HavensConsulting (če želiš znotraj PBI modela pod vsako mero dodati time intelligence funkcije z enim klikom (da za tem, ko vstaviš #C formulo, označiš mere, in poženeš zadevo - kreirano pod Wages) or
+- https://www.youtube.com/watch?v=_j0iTUo2HT0&ab_channel=GuyinaCube (kreiraš time intelligence tabelo, ki jo pol filtriraš v filtrih na merah - https://github.com/bernatagulloesbrina/time-intelligence/blob/main/Time%20Intelligence%20Calculation%20Group%20Creation.csx) or 
+- https://www.esbrina-ba.com/one-click-calculation-groups-for-your-toolbelt/
+Advanced scripting: https://docs.tabulareditor.com/te2/Advanced-Scripting.html
 
 ---
 

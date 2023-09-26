@@ -1,13 +1,3 @@
-First page(s):
-- Overview, general information
-- Main metrics with trend over time
-- Less complex graphs (charts in main color)
-
-Additional pages:
-- More complex graphs (charts in main color + extremes in green and red)
-
----
-
 Rule 1: [[Design for a target]]
 Part of Rule 2: [[Hierarchical data]]
 Rule 3: [[Keep it simple]]

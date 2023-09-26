@@ -1,6 +1,6 @@
 Don't use [[Table]] (make additional pages for tables in your PBI report)
 - Users don’t want to check information line-by-line and scroll down
-- Recommended structure of PBI report: [[4 Organize Output Data]]
+- Recommended structure of PBI report: [[1 Organize Output Data]]
 
 Be clear with the title
 

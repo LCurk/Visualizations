@@ -60,19 +60,19 @@ Include: [[Function CALENDAR]]
 **Short version:**
 Modeling -> New table
 ```sql (dax)
-Calendar 5 =
+Calendar =
 VAR BaseCalendar =
-    CALENDAR ( DATE ( 2016, 1, 1 ), DATE ( 2018, 12, 31 ) )
+    CALENDAR(DATE(2018, 1, 1), DATE(2024, 12, 31))
 RETURN
-    GENERATE (
+    GENERATE(
         BaseCalendar,
         VAR BaseDate = [Date]
-        VAR YearDate = YEAR ( BaseDate )
-        VAR MonthNumber = MONTH ( BaseDate )
-        VAR MonthName = FORMAT ( BaseDate, "mmmm" )
-        VAR YearMonthName = FORMAT ( BaseDate, "mmm yy" )
+        VAR YearDate = YEAR(BaseDate)
+        VAR MonthNumber = MONTH(BaseDate)
+        VAR MonthName = FORMAT(BaseDate, "mmmm")
+        VAR YearMonthName = FORMAT(BaseDate, "mmm yy")
         VAR YearMonthNumber = YearDate * 12 + MonthNumber - 1
-        RETURN ROW (
+        RETURN ROW(
             "Day", BaseDate,
             "Year", YearDate,
             "Month Number", MonthNumber,
@@ -87,4 +87,41 @@ RETURN
 **Long version:**
 Modeling -> New table
 
-- [ ] Dopolni na podlagi Short verzije #todo/laura 
+```sql(dax)
+Calendar =
+VAR BaseCalendar =
+    CALENDARAUTO()
+RETURN
+    GENERATE(
+        BaseCalendar,
+        VAR BaseDate = [Date]
+        VAR Year = YEAR(BaseDate)
+        VAR DayName = FORMAT(BaseDate, "dddd")
+        VAR DayShort = UPPER(LEFT(FORMAT(BaseDate, "ddd"), 1)) & RIGHT(FORMAT(BaseDate, "ddd"), 2)
+        VAR DayNum = FORMAT(BaseDate,"d")
+        VAR WorkDayNum = SWITCH(WEEKDAY(Basedate,2),6,0,7,0,1)
+        VAR WeekDay = WEEKDAY(BaseDate, 2)
+        VAR WeekNum = WEEKNUM(BaseDate)
+        VAR MthName = FORMAT(BaseDate, "mmmm")
+        VAR MthShort = UPPER(LEFT(FORMAT(BaseDate, "mmm"), 1)) & RIGHT(FORMAT(BaseDate, "mmm"), 2)
+        VAR MthNum = MONTH(BaseDate)
+        VAR YearMthName = FORMAT(BaseDate, "mmm yy")
+        RETURN ROW(
+            "Day", DayName,
+            "Day Short", DayShort,
+            "Day Number", DayNum,
+            "Work Day", WorkDayNum,
+            "Week Day", WeekDay,
+            "Week Number", WeekNum,
+            "Month", MthName,
+            "Month Short", MthShort,
+            "Month Number", MthNum,
+            "Year Month", YearMthName,
+            "Year", Year
+        )
+    )
+```
+
+
+
+Power BI Desktop -> Right click on table -> Mark as date table

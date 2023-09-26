@@ -1,37 +1,43 @@
 #### 1. Prepare a Model
 [[1 Create Calendar Dimension]]
-[[2 Format Measures]]
+[[2 Organize Measures]]
 [[3 Create Testing Dimensions]]
 
-#### 2. Organize Data
+#### 2. Organize Source Data
 [[1 Create Power BI Dataflow]]
-[[2 Create Power BI Dataset]]
+[[2 Create Dataset in PBI App]]
 [[3 Organize Source Data]]
-[[4 Organize Output Data]]
 
 #### 3. Power BI Desktop Configuration
-[[1 General Settings in PBI Desktop]]
+[[1 Customize Theme]]
+[[2 Choose a Page View]]
+[[3 Design for Mobile Devices]]
+[[4 Add External Tools]]
+[[5 Get Data from PBI Dataset]]
 
 #### 4. Designing Guidelines
-[[1 General Designing Guidelines]]
+[[1 Organize Output Data]]
+[[2 General Designing Guidelines]]
 
 #### 5. Usage on Visualizations
 [[1 Use of Colors]]
 [[2 Set Slicers]]
 [[3 Use Abbreviations]]
 [[4 Pick the right charts]]
-...
-[[6 Allign elements]]
+[[5 Allign elements]]
+[[6 Edit Interactions]]
+[[7 Drill Down]]
 
 #### 6. Power BI Service Configuration
 [[1 Open Workspace in PBI]]
 [[2 Publish PBI Report in PBI App]]
 [[3 Publish PBI Report to Web]]
 [[4 Create Dashboard from PBI Report]]
-[[1 Create Power BI Dataflow]]
 
 #### 7. Sharing
-[[1 Share PBI Workspace]]
-[[2 Settings in PBI App]] todo
-[[3 Gateway Connection]] todo
-[[4 Schedule Refresh]]
+[[1 Share PBI Dataset]]
+[[2 Share PBI Workspace]]
+[[3 Share PBI App]]
+[[3 Settings in PBI App]] todo
+[[4 Gateway Connection]] todo
+[[5 Schedule Refresh]]

@@ -1,4 +1,4 @@
-**optional - alternative for "[[2 Create Power BI Dataset]]")**
+**optional - alternative for "[[2 Create Dataset in PBI App]]")**
 
 #### ETL Layer
 

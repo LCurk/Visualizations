@@ -1,10 +1,10 @@
 If using them, explain them to dashboard users.
 
-Act = Actual
-Py = Previous year
-Pp = Previous period
-Growth (%) = (Act - Py)/Py = Growth rate between two numbers in %
-Variance / Diff = Act - Py = Absolute difference between percents
+Current = Act = Actual
+PY = Previous year
+PP = Previous period
+YOY% = Growth (%) = (Act - Py)/Py = Growth rate between two numbers in %
+YOY = Variance / Diff = Act - Py = Absolute difference between percents
 
 MTD
 YTD
