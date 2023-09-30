@@ -3,4 +3,4 @@
 2. Select Refresh > Schedule refresh: On
 	- Refresh frequency: Daily
 	- Time zone: (UTC-08:00) Pacific Time (US and Car …
-	- Add another time (4x/dan): 5AM, 8 AM, 1 PM, 5 PM
+	- Add another time (4x/day): 5AM, 8 AM, 1 PM, 5 PM

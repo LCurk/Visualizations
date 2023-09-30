@@ -1,19 +1,19 @@
-#### 1. Prepare a Model
-[[1 Create Calendar Dimension]]
-[[2 Organize Measures]]
-[[3 Create Testing Dimensions]]
-
-#### 2. Organize Source Data
-[[1 Create Power BI Dataflow]]
+#### 1. Organize Source Data
+[[1 Create Dataflow in PBI App]]
 [[2 Create Dataset in PBI App]]
 [[3 Organize Source Data]]
 
-#### 3. Power BI Desktop Configuration
+#### 2. Power BI Desktop Configuration
 [[1 Customize Theme]]
 [[2 Choose a Page View]]
 [[3 Design for Mobile Devices]]
 [[4 Add External Tools]]
-[[5 Get Data from PBI Dataset]]
+[[5 Get Data]]
+
+#### 3. Prepare a Model
+[[1 Create Calendar Dimension]]
+[[2 Organize Measures]]
+[[3 Create Testing Dimensions]]
 
 #### 4. Designing Guidelines
 [[1 Organize Output Data]]
@@ -38,6 +38,6 @@
 [[1 Share PBI Dataset]]
 [[2 Share PBI Workspace]]
 [[3 Share PBI App]]
-[[3 Settings in PBI App]] todo
-[[4 Gateway Connection]] todo
-[[5 Schedule Refresh]]
+[[4 Settings in PBI App]] todo
+[[5 Gateway Connection]] todo
+[[6 Schedule Refresh]]

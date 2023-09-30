@@ -4,8 +4,8 @@ View -> Themes -> Customize current theme
 		- Color 1: /[[Main Color]]/
 		- Color 2 (Py): CCCCCC / 6A6A6A
 		- Sentiment colors
-			- Negative: E60000 / FF0000
-			- Positive: 089B4A / 8CB400
+			- Negative: E60000
+			- Positive: 089B4A
 			- Neutral: /[[Main Color]]/
 		- Divergent colors
 			- Max: 089B4A

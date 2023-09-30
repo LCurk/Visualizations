@@ -19,3 +19,7 @@ Enter data -> Add new table
 		- PBI Desktop -> Model view -> select a column, measure, or calculated column (you can select multiple items using Ctrl+Click) -> Properties -> Display Folder: ... (name it)
 
 5. Create [[Time Intelligence Calculation Items]] with [[Tabular Editor]]
+
+
+
+[[Dynamic Measures]]
