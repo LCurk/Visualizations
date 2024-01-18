@@ -45,4 +45,4 @@
 [[5 Gateway Connection]] todo
 [[6 Schedule Refresh]]
 
-[[Paginated Reports]]
+[[5 Create Paginated Report]]

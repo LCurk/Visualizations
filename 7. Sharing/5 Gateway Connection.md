@@ -1,8 +1,12 @@
+It enables scheduled refresh for On-Premise data sources.
+
 Download Gateway: https://powerbi.microsoft.com/en-us/gateway/
 - Personal mode
 - Standard mode
 
-Instructions: https://www.cdata.com/kb/tech/googledrive-connect-powerbi-service-gateway.rst
+Install Gateway: https://learn.microsoft.com/en-us/data-integration/gateway/service-gateway-install
+
+Instructions to connect to On-Premise data sources inside Power BI service: https://www.cdata.com/kb/tech/googledrive-connect-powerbi-service-gateway.rst
 
 On three dots in PBI: Unckeck "skip test connection" (it is unchecked by default??)
 

@@ -1,1 +1,0 @@
-Tool: [[SQL Server Reporting Services]]
