@@ -1,3 +1,7 @@
+?? If users will not change anything inside PBI report in PBI service, it is recommended, to give to customers permissions only for app, not for workspace where those PBI files are located.
+
+---
+
 [https://app.powerbi.com/home](https://app.powerbi.com/home) -> Apps -> three dots on a created App -> Manage permissions -> Manage audiences
 
 - Create one audience for users that can access all pages in PBI report
@@ -17,3 +21,5 @@
 	- Click on the »eyes« icon to show or hide PBI files
 	- Edit Audience (add users) -> Update app -> Update
 	- Copy link -> send link to customer on email
+
+? Don't share links to PBI files to customers. Teach them to access PBI Workspace or PBI App through https://app.powerbi.com/.

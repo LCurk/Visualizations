@@ -22,7 +22,7 @@ Benefits of using dataflows
 
 ---
 
-Add data sources
+#### Add data sources
 - [https://app.powerbi.com/home](https://app.powerbi.com/home) -> Workspaces -> select workspace -> New -> Dataflow
 	- [[Define New Tables]]
 	- [[Link Tables from other Dataflows]]
@@ -35,10 +35,12 @@ Save & close -> Name: ... -> Save
 
 ---
 
-#### Options only in browser Power Query
-
 Display steps for queries
 - View -> Diagram view
+
+---
+
+#### Options only in browser Power Query
 
 See available columns (and their data types) in queries 
 - View -> Schema view

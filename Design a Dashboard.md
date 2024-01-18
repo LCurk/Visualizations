@@ -1,7 +1,8 @@
-#### 1. Organize Source Data
+#### 1. Organize Data Source
 [[1 Create Dataflow in PBI App]]
 [[2 Create Dataset in PBI App]]
-[[3 Organize Source Data]]
+[[3 Organize Data Source]]
+[[4 Configure Connection]]
 
 #### 2. Power BI Desktop Configuration
 [[1 Customize Theme]]
@@ -12,8 +13,10 @@
 
 #### 3. Prepare a Model
 [[1 Create Calendar Dimension]]
-[[2 Organize Measures]]
-[[3 Create Testing Dimensions]]
+[[2 Tables]]
+[[3 Organize Measures]]
+[[4 Create Testing Dimensions]]
+[[5 Two Fact Tables]]
 
 #### 4. Designing Guidelines
 [[1 Organize Output Data]]
@@ -41,3 +44,5 @@
 [[4 Settings in PBI App]] todo
 [[5 Gateway Connection]] todo
 [[6 Schedule Refresh]]
+
+[[Paginated Reports]]

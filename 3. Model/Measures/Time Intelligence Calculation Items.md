@@ -34,13 +34,15 @@ Advanced scripting: https://docs.tabulareditor.com/te2/Advanced-Scripting.html
 
 #### LY Measures
 
-MP količina LY = CALCULATE([MP količina], SAMEPERIODLASTYEAR('Datum'[Datum]))
+KOLIČINA
+SELECTEDMEASURE1() LY = CALCULATE([SELECTEDMEASURE1()], SAMEPERIODLASTYEAR('Datum'[Datum]))
 
-MP količina IND on LY = DIVIDE ([MP količina], CALCULATE([MP količina], SAMEPERIODLASTYEAR('Datum'[Datum])), BLANK())
+VREDNOST
+SELECTEDMEASURE2() IND on LY = DIVIDE ([SELECTEDMEASURE1()], CALCULATE([SELECTEDMEASURE1()], SAMEPERIODLASTYEAR('Datum'[Datum])), BLANK())
 
-MP fakturna vrednost % from LY = DIVIDE ([MP fakturna vrednost], CALCULATE([MP fakturna vrednost], SAMEPERIODLASTYEAR('Datum'[Datum]))) – 1
+SELECTEDMEASURE() % from LY = DIVIDE ([MP fakturna vrednost], CALCULATE([MP fakturna vrednost], SAMEPERIODLASTYEAR('Datum'[Datum]))) – 1
 
-MP fakturna vrednost DIFF on LY =  CALCULATE([MP fakturna vrednost]) - CALCULATE([MP fakturna vrednost], SAMEPERIODLASTYEAR('Datum'[Datum]))
+SELECTEDMEASURE() DIFF on LY =  CALCULATE([MP fakturna vrednost]) - CALCULATE([MP fakturna vrednost], SAMEPERIODLASTYEAR('Datum'[Datum]))
 
 ---
 
@@ -123,3 +125,6 @@ Stocks
 
 Sales
 - ...
+
+
+

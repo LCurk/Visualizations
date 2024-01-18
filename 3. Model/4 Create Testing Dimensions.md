@@ -10,7 +10,7 @@ Testing dimensions that should be created:
 	- Zero
 		- [[Price Zero Dimension]]
 		- [[Quantity Zero Dimension]]
-- Area: [[Finance]]
+- Area: [[Business Intelligence/Accounting and Finance/Za razvrstit/Finance]]
 	- ...
 - Area: [[Sales]]
 	- ...

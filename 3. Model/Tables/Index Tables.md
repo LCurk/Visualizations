@@ -1,0 +1,12 @@
+Index Not Unique Column in Fact Table: https://community.fabric.microsoft.com/t5/Power-Query/Index-column-based-on-value-category/td-p/1705234
+- Power Query
+	- Home -> click on Not Unique Column (e.g.: Project) -> Group By 
+		- New column name: All Rows
+		- Operation: All Rows
+		- OK
+	- Add Column -> Index Column -> From 1 -> Rename column Index (e.g.: Project ID)
+	- Click on the expansion button on the column All Rows
+		- Expand
+		- Select All Columns (except the one you based the index on)
+		- Uncheck "Use original column name as prefix"
+		- OK

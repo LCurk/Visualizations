@@ -3,8 +3,14 @@ If using them, explain them to dashboard users.
 Current = Act = Actual
 PY = Previous year
 PP = Previous period
-YOY% = Growth (%) = (Act - Py)/Py = Growth rate between two numbers in %
-YOY = Variance / Diff = Act - Py = Absolute difference between percents
+% Diff = Var = (Act - Py)/Py = Growth rate between two numbers in %
+Diff = Act - Py = Absolute difference between percents
+
+
+YOY% (Diff % za leto)
+YOY (Diff)
+MOM Diff na mesec)
+
 
 MTD
 YTD

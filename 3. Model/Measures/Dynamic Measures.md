@@ -1,46 +1,17 @@
-Steps to create them: https://www.youtube.com/watch?v=s4jeX9EKON4
+Steps to create them: https://youtu.be/s4jeX9EKON4?si=-L6cPJjVrfIUE1iv&t=195
 
-[https://www.youtube.com/watch?v=ROyVkQ9vTjc](https://www.youtube.com/watch?v=ROyVkQ9vTjc "https://www.youtube.com/watch?v=royvkq9vtjc")
-
-```sql(dax)
-VAR SelectedMeasure = SELECTEDMEASURE()
-RETURN
-    IF(
-        SelectedMeasure < 1E4,
-        FORMAT(SelectedMeasure, "0,0"),
-        IF(
-            SelectedMeasure < 1E6,
-            FORMAT(SelectedMeasure / 1E3, "#,##0") & "K",
-            FORMAT(SelectedMeasure / 1E6, "#,##0") & "M"
-        )
-    )
-```
+Click on a measure -> Measure tools -> Format: Dynamic -> Enter DAX formula in "Format":
 
 ```sql(dax)
 SWITCH(
     TRUE(),
-    SELECTEDMEASURE() < 10000, FORMAT(SELECTEDMEASURE(), "#,0"),
-    SELECTEDMEASURE() < 1000000, FORMAT(SELECTEDMEASURE() / 1000, "#,0") & "K",
-    SELECTEDMEASURE() < 1000000000, FORMAT(SELECTEDMEASURE() / 1000000, "#,0") & "M"
+    ABS(SELECTEDMEASURE()) < 10, "0.00",
+    ABS(SELECTEDMEASURE()) < 1000, "0",
+    ABS(SELECTEDMEASURE()) < 1000000, "#,.0K",
+    ABS(SELECTEDMEASURE()) < 1000000000, "#,,.0M",
+    ABS(SELECTEDMEASURE()) >= 1000000000, "#,,,.0bn"
 )
 ```
-
-Nedelujoče:
-SWITCH(
-
-    TRUE(),
-
-    SELECTEDMEASURE() >= 1000000000, FORMAT(SELECTEDMEASURE() / 1000000, "#,0") & "M",
-
-    SELECTEDMEASURE() >= 1000000, FORMAT(SELECTEDMEASURE() / 1000, "#,0") & "K",
-
-    SELECTEDMEASURE() >= 0, FORMAT(SELECTEDMEASURE(), "#,0"),
-
-    SELECTEDMEASURE() > -10000, FORMAT(SELECTEDMEASURE(), "#,0"),
-
-    SELECTEDMEASURE() > -1000000, FORMAT(SELECTEDMEASURE() / 1000, "#,0") & "K"
-
-)
 
 ---
 

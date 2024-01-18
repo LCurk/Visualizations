@@ -1,3 +1,7 @@
+#### Special Visualizations
+
+Text Filter, Candlestick by OKViz, Sparkline by OKViz, Impact Bubble Chart, Bullet Chart by OKViz, Card with States by OKViz
+
 #### Bad Visualizations
 
 Visualizations you shouldn't use (with a few exceptions):
@@ -33,12 +37,14 @@ http://www.perceptualedge.com/example17.php
 	- Only a few or many?
 4. Will you display values over a period of time, or among items or groups?
 
+
 ---
 
 #### Good Visualizations (Basic Users)
 
 KPIs:
 - [[Card with States]]
+- [[Metrics]]
 
 
 **COMPARISON**
@@ -50,8 +56,10 @@ Change or trend over time:
 - Significant
 	- [[Bar chart]]
 
-Compare exact, quantitative data from several categories:
-- 2 - 7 categories and short category names: [[Column chart]]
+[[Area chart]]
+
+Compare exact, quantitative data by categories:
+- 2 - 6 categories and short category names: [[Column chart]]
 - 7 - 15 categories or/and long category names: [[Bar chart]]
 
 Up to four measures:

@@ -4,13 +4,13 @@ View -> Themes -> Customize current theme
 		- Color 1: /[[Main Color]]/
 		- Color 2 (Py): CCCCCC / 6A6A6A
 		- Sentiment colors
-			- Negative: E60000
-			- Positive: 089B4A
-			- Neutral: /[[Main Color]]/
+			- Negative: E60000 (pastel for Data bars: FAB8B8)
+			- Positive: 089B4A (pastel for Data bars: C0EABC)
+			- Neutral: /[[Main Color]]/ (pastel for Data bars: F0E199)
 		- Divergent colors
-			- Max: 089B4A
+			- Max: 089B4A (pastel for Data bars: C0EABC - yellow) (pastel for Data bars: E0E0E0 - gray)
 			- Middle: /main color/
-			- Min: E60000
+			- Min: E60000 (pastel for Data bars: FAB8B8)
 - Text
 	- General: Segoe UI Semibold, 16 pt, 000000
 	- Title: Segoe UI, 16 pt, 000000
@@ -29,3 +29,8 @@ View -> Themes -> Customize current theme
 	- Available filter cards: 
 	- Applied filter cards: 
 		- Checkbox and Apply color: 089B4A
+
+
+ADD:
+- Main: 001544
+- Light: 4e7386
